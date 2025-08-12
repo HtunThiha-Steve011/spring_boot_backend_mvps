@@ -15,7 +15,7 @@ target/
 
 ### Env Variables ###
 .env
-src/main/resources/static/application.properties
+src/main/resources/application.properties
 
 ### IntelliJ IDEA ###
 .idea
